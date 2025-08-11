@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+.card{
+    width:250px;
+    height:350px;
+    background-image:url(https://www.shutterstock.com/image-vector/books-glasses-seamless-pattern-hand-600nw-2480344093.jpg);
+}
+    button{
+    background-color: blanchedalmond;
+    color: hotpink;
+    width: 100px;
+}
